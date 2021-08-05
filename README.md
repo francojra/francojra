@@ -1,7 +1,7 @@
 ### Olá, meu nome é Jeanne Franco
 
 - Sou estudante de doutorado do curso de Ecologia na Universidade Federal do Rio Grande do Norte;
-- Atualmente ministro cursos online na empresa de consultoria Beta Analítica e faço parte da coorganização da comunidade R-Ladies Natal;
+- Ministro cursos online na empresa de consultoria Beta Analítica e faço parte da coorganização da comunidade R-Ladies Natal;
 - Atualmente estou aprendendo sobre Python, RMarkdown, Shiny e Java;
 - Tenho interesse em aprender linguagens de marcação como html e css;
 - Eu posso colaborar na produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote dplyr do R.
