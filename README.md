@@ -2,7 +2,7 @@
 
 - Ministro cursos de programação na empresa de consultoria Beta Analítica;
 - Faço parte da coorganização da comunidade R-Ladies Natal;
-- Atualmente estou aprendendo sobre Python, R, RMarkdown, Shiny e Java;
+- Estou aprendendo sobre Python, R, RMarkdown, Shiny e Java;
 - Tenho interesse em aprender linguagens de marcação como html e css;
 - Posso colaborar na produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote dplyr do R;
 - Sou estudante de doutorado do curso de Ecologia na Universidade Federal do Rio Grande do Norte.
