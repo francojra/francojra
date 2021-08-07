@@ -1,4 +1,4 @@
-## Resumo sobre minhas atividades:
+## Resumo das minhas atividades:
 
 - Ministro cursos de programação na empresa de consultoria Beta Analítica;
 - Faço parte da coorganização da comunidade R-Ladies Natal;
