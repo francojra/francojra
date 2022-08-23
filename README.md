@@ -2,10 +2,10 @@
 
 - Ministro cursos de programação na empresa de consultoria Beta Analítica;
 - Faço parte da coorganização da comunidade R-Ladies Natal;
-- Estou aprendendo sobre Python, R, RMarkdown, Shiny e Java;
+- Estou aprendendo sobre Python, R, RMarkdown e Shiny;
 - Tenho interesse em aprender linguagens de marcação como html e css;
 - Posso colaborar na produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote dplyr do R;
-- Sou estudante de doutorado do curso de Ecologia na Universidade Federal do Rio Grande do Norte.
+- Apresento graduação e doutorado do curso de Ecologia e mestrado em Ciências Florestais pela Universidade Federal do Rio Grande do Norte.
 
  <div>
   <a href="https://github.com/francojra">
