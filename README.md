@@ -5,7 +5,7 @@
 - Estou aprendendo sobre Python, R, RMarkdown e Shiny;
 - Tenho interesse em aprender linguagens de marcação como html e css;
 - Posso colaborar na produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote dplyr do R;
-- Apresento graduação e doutorado do curso de Ecologia e mestrado em Ciências Florestais pela Universidade Federal do Rio Grande do Norte.
+- Sou graduada e doutora em Ecologia e mestra em Ciências Florestais pela Universidade Federal do Rio Grande do Norte.
 
  <div>
   <a href="https://github.com/francojra">
