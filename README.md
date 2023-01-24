@@ -2,8 +2,9 @@
 
 - Ministro cursos de programação na empresa de consultoria Beta Analítica;
 - Coorganizadora da comunidade R-Ladies Natal;
-- Aprendendo sobre Python e R (pacotes tidyverse, rmarkdown e shiny);
+- Aprendendo sobre Python e R;
 - Interesse em linguagens de marcação como html e css;
+- Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Colaboro na produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote dplyr do R;
 - Graduada e doutora em Ecologia e mestra em Ciências Florestais pela Universidade Federal do Rio Grande do Norte.
 
