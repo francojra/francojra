@@ -35,7 +35,7 @@
  
 ***
   
-#### Visite meu Blog e acesse meus contatos:
+#### Visite meu blog e acesse meus contatos:
 
 <div 
   style="display: inline_block">
