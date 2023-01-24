@@ -47,6 +47,7 @@
 
 <div 
   style="display: inline_block">
+  <a href="https://jeannefrancojra.quarto.pub/jeanne-franco/" target="_blank">
   <img align="center" alt="Jeanne-HTML" height="60" width="60" src="https://img.icons8.com/external-filled-line-gradient-andi-nur-abdillah/512/external-blog-digital-marketing-filled-line-gradient-filled-line-gradient-andi-nur-abdillah.png">
-  </div>  https://jeannefrancojra.quarto.pub/jeanne-franco/
+  </div>  
 
