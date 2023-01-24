@@ -40,5 +40,11 @@
   <a href="https://www.linkedin.com/in/jeanne-franco-13bab4b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jeanneefranco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCValiiCyO82tJmG0BXnQuow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://jeannefrancojra.quarto.pub/jeanne-franco/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+#### Visite meu Blog:
+
+<div 
+  style="display: inline_block">
+  <img align="center" alt="Jeanne-HTML" height="30" width="40" src="https://img.icons8.com/external-filled-line-gradient-andi-nur-abdillah/512/external-blog-digital-marketing-filled-line-gradient-filled-line-gradient-andi-nur-abdillah.png">
+  </div>
  
