@@ -15,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francojra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojra&layout=compact&langs_count=7&theme=dracula"/>
  </div>
+ 
+***
 
  #### Linguagens e ferramentas utilizadas: 
 <div 
@@ -30,6 +32,8 @@
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 </div>
+ 
+***
  
  #### Contatos:
  <div> 
