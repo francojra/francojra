@@ -25,7 +25,7 @@
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
   <img align="center" alt="Jeanne-R" height="65" width="50" src="https://www.svgrepo.com/show/373827/markdown.svg"> 
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Jeanne-R" height="65" width="50" src="https://img.icons8.com/plasticine/512/github-squared.png">
+  <img align="center" alt="Jeanne-R" height="65" width="50" src="https://img.icons8.com/sf-black-filled/512/github.png">
 </div>
  
   ##
