@@ -5,7 +5,7 @@
 - Aprendendo sobre Python e R;
 - Interesse em linguagens de marcação como html e css;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
-- Colaboro na produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote dplyr do R;
+- Produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote tidyverse do R;
 - Graduada e doutora em Ecologia e mestra em Ciências Florestais pela Universidade Federal do Rio Grande do Norte.
 
  <div>
