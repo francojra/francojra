@@ -14,8 +14,7 @@
   <a href="https://github.com/francojra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francojra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojra&layout=compact&langs_count=7&theme=dracula"/>
-          
-</div>
+ </div>
 
  #### Linguagens e ferramentas utilizadas:
  
@@ -33,6 +32,8 @@
 </div>
  
  #### Contatos:
+ 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
  
   <div> 
   <a href="https://www.linkedin.com/in/jeanne-franco-13bab4b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
