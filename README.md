@@ -3,7 +3,7 @@
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Aprendendo sobre Python e R;
-- Interesse em linguagens de marcação como html e css;
+- Interesse em linguagens de marcação como HTML e CSS;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote tidyverse do R;
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
