@@ -1,7 +1,7 @@
 #### Resumo das minhas atividades:
 
-- Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
-- Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
+-> Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
+-> Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Aprendendo sobre Python e R;
 - Interesse em linguagens de marcação como HTML e CSS;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
