@@ -2,7 +2,7 @@
 
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
-- Aprendendo sobre Python e R;
+- Experiência com liguagem R e aprendendo sobre Python;
 - Interesse em linguagens de marcação como HTML e CSS;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas descritivas com o pacote tidyverse do R;
