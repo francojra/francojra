@@ -32,7 +32,7 @@
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="Jeanne-R" height="150" width="80" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg">
-  <img align="center" alt="Jeanne-R" height="150" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  <img align="center" alt="Jeanne-R" height="30" width="40" src="https://www.mermaidchart.com/img/icon-logo.svg">
 </div>
  
 ***
