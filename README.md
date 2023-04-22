@@ -1,4 +1,4 @@
-#### Resumo das minhas atividades:
+#### Minhas atividades:
 
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
