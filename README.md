@@ -34,7 +34,7 @@
   <img align="center" alt="Jeanne-R" height="150" width="80" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg">
   <img align="center" alt="Jeanne-R" height="30" width="40" src="https://www.mermaidchart.com/img/icon-logo.svg">
   <img align="center" alt="Jeanne-R" height="38" width="38" src="https://img.icons8.com/nolan/512/notion.png">
-  <img align="center" alt="Jeanne-R" height="37" width="37" src="https://www.instrutorgis.com.br/wp-content/uploads/2020/10/google_earth-engine.png">
+  <img align="center" alt="Jeanne-R" height="37" width="37" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
 </div>
  
 ***
