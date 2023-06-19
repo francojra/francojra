@@ -36,7 +36,7 @@
   <img align="center" alt="Jeanne-R" height="36" width="36" src="https://img.icons8.com/nolan/512/notion.png">
   <img align="center" alt="Jeanne-R" height="36" width="36" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
   <img align="center" alt="Jeanne-R" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Jeanne-R" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
+  <img align="center" alt="Jeanne-R" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
 </div>
  
 ***
