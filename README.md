@@ -4,7 +4,7 @@
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Experiência com liguagem R e Python;
 - Interesse em Machine Learning com R e Python;
-- Interesse em linguagens de marcação como HTML e CSS e na liguagem JavaScript;
+- Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Produção de gráficos com ggplot2 e análises de dados com o pacote tidyverse do R;
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
