@@ -40,12 +40,4 @@
 </div>
  
 ***
-  
-#### Visite meu blog e acesse meus contatos:
-
-<div 
-  style="display: inline_block">
-  <a href="https://jeannefrancojra.quarto.pub/" target="_blank">
-  <img align="center" alt="Jeanne-HTML" height="42" width="42" src="https://img.icons8.com/external-flat-gradient-andi-nur-abdillah/512/external-blog-digital-marketing-flat-gradient-flat-gradient-andi-nur-abdillah.png">
-  </div>  
 
