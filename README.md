@@ -5,7 +5,9 @@
 - Sou coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - I am a co-organizer at [R-Ladies Natal](https://www.instagram.com/rladiesnatal/) community;
 - Experiência com liguagem R e Python;
+- I have experience in R and Python languages;
 - Interesse em Machine Learning com R e Python;
+- I have an interest in Machine Learning with R and Python;
 - Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas com o pacote tidyverse do R;
