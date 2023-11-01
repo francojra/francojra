@@ -1,7 +1,9 @@
-#### Minhas atividades:
+#### Qualificações e experiências/Qualifications and experiences:
 
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
-- Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
+- I work as a teacher of programming for [Beta Analítica Company](https://betaanalitica.com.br/);
+- Sou coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
+- I am a co-organizer at [R-Ladies Natal](https://www.instagram.com/rladiesnatal/) community;
 - Experiência com liguagem R e Python;
 - Interesse em Machine Learning com R e Python;
 - Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
