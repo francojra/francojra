@@ -1,7 +1,7 @@
 #### Qualificações e experiências/Qualifications and experiences:
 
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
--  I work as a teacher of programming for Beta Analítica Company;
+-  I work as a teacher of programming for Beta Analítica company;
 - Sou coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - I am a co-organizer at R-Ladies Natal community;
 - Experiência com liguagem R e Python;
