@@ -9,13 +9,13 @@
 - Interesse em Machine Learning com R e Python;
 - I have an interest in Machine Learning with R and Python;
 - Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
-- I have interest in HTML, CSS, JavaScript languages;
+- I have interest in HTML, CSS and JavaScript languages;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - I have experience in preparation of sites and blogs using Quarto software in RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas com o pacote tidyverse do R;
 - I have experience in production graphs and statistical analysis with tidyverse in R;
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
-- I have a bachelor of science degree in Ecology, a master's degree in Forests sciences and a Ph.D. in Ecology at UFRN.
+- I have a bachelor of science degree in Ecology, a master's degree in Forests sciences, and a Ph.D. in Ecology at UFRN.
 
 ***
 
