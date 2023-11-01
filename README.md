@@ -1,21 +1,21 @@
 #### Qualificações e experiências/Qualifications and experiences:
 
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
--> I work as a teacher of programming for [Beta Analítica Company](https://betaanalitica.com.br/);
+-  I work as a teacher of programming for [Beta Analítica Company](https://betaanalitica.com.br/);
 - Sou coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
--> I am a co-organizer at [R-Ladies Natal](https://www.instagram.com/rladiesnatal/) community;
+- I am a co-organizer at [R-Ladies Natal](https://www.instagram.com/rladiesnatal/) community;
 - Experiência com liguagem R e Python;
--> I have experience in R and Python languages;
+- I have experience in R and Python languages;
 - Interesse em Machine Learning com R e Python;
--> I have an interest in Machine Learning with R and Python;
+- I have an interest in Machine Learning with R and Python;
 - Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
--> I have interest in HTML, CSS, JavaScript languages;
+- I have interest in HTML, CSS, JavaScript languages;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
--> I have experience in preparation of sites and blogs using Quarto software in RStudio;
+- I have experience in preparation of sites and blogs using Quarto software in RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas com o pacote tidyverse do R;
--> I have experience in production graphs and statistical analysis with tidyverse in R;
+- I have experience in production graphs and statistical analysis with tidyverse in R;
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
--> I have a bachelor of science degree in Ecology, a master's degree in Forests sciences and a Ph.D. in Ecology at UFRN.
+- I have a bachelor of science degree in Ecology, a master's degree in Forests sciences and a Ph.D. in Ecology at UFRN.
 
 ***
 
