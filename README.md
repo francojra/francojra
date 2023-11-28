@@ -9,8 +9,8 @@
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
 
 #### Qualifications and experiences:
-- I work as a lecturer of programming for [Beta Analítica company](https://betaanalitica.com.br/);
-- I am a co-organizer at [R-Ladies Natal community](https://www.instagram.com/rladiesnatal/);
+- I work as a lecturer of programming for [Beta Analítica](https://betaanalitica.com.br/) company;
+- I am a co-organizer at [R-Ladies Natal](https://www.instagram.com/rladiesnatal/) community;
 - I have experience in R and Python languages;
 - I have an interest in Machine Learning with R and Python; 
 - I have interest in HTML, CSS and JavaScript languages;
