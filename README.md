@@ -1,10 +1,10 @@
 #### Qualificações e experiências:
-- Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
-- Sou coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
-- Experiência com liguagem R e Python;
-- Interesse em R e Python;
-- Interesse na elaboração de aplicativos interativos com Shiny.
-- Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
+- Cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
+- Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
+- Linguagem R e Python;
+- Elaboração de aplicativos interativos com Shiny;
+- Elaboração de documentos com R Markdown;
+- Linguagens de marcação HTML e CSS;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas com o pacote tidyverse do R;
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
@@ -12,12 +12,13 @@
 #### Qualifications and experiences:
 - I work as a lecturer of programming for [Beta Analítica](https://betaanalitica.com.br/) company;
 - I am a co-organizer at [R-Ladies Natal](https://www.instagram.com/rladiesnatal/) community;
-- I have experience in R and Python languages;
-- Interest in developing interactive applications with Shiny
-- I have interest in HTML, CSS and JavaScript languages;
-- I have experience in preparation of sites and blogs using Quarto software in RStudio;
-- I have experience in production graphs and statistical analysis with tidyverse in R;
-- I have a bachelor of science degree in Ecology, a master's degree in Forests sciences, and a Ph.D. in Ecology at [UFRN](https://www.ufrn.br/).
+- Experience in R and Python languages;
+- Developing interactive applications with Shiny;
+- Document creation with R Markdown;
+- Interest in HTML and CSS languages;
+- Experience in preparation of sites and blogs using Quarto software in RStudio;
+- Experience in production graphs and statistical analysis with tidyverse in R;
+- Bachelor of science degree in Ecology, a master's degree in Forests sciences, and a Ph.D. in Ecology at [UFRN](https://www.ufrn.br/).
 
 ***
 
