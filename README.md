@@ -2,7 +2,8 @@
 - Ministro cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
 - Sou coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Experiência com liguagem R e Python;
-- Interesse em Machine Learning com R e Python;
+- Interesse em R e Python;
+- Interesse na elaboração de aplicativos interativos com Shiny.
 - Interesse nas linguagens de marcação HTML e CSS, e na linguagem JavaScript;
 - Elaboração de sites e blogs com sistema Quarto no RStudio;
 - Produção de gráficos com ggplot2 e análises estatísticas com o pacote tidyverse do R;
