@@ -1,6 +1,6 @@
 #### Qualificações e experiências:
-- Especialista em Geoprocessamento no [INPE](https://www.gov.br/inpe/pt-br);
-- Cientista de Dados na empresa [Beta Analítica](https://betaanalitica.com.br/);
+- Especialista em geoprocessamento no [INPE](https://www.gov.br/inpe/pt-br);
+- Consultora e cientista de dados na empresa [Beta Analítica](https://betaanalitica.com.br/);
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Linguagem R e Python;
 - Elaboração de aplicativos interativos com Shiny;
