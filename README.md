@@ -1,5 +1,6 @@
 #### Qualificações e experiências:
-- Cursos de programação na empresa de consultoria [Beta Analítica](https://betaanalitica.com.br/);
+- Especialista em Geoprocessamento no [INPE](https://www.gov.br/inpe/pt-br);
+- Cientista de Dados na empresa [Beta Analítica](https://betaanalitica.com.br/);
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Linguagem R e Python;
 - Elaboração de aplicativos interativos com Shiny;
