@@ -1,5 +1,5 @@
 #### Qualificações e experiências:
-- Especialista em geoprocessamento no [INPE](https://www.gov.br/inpe/pt-br);
+- Cientista de Dados Geoespaciais no [INPE](https://www.gov.br/inpe/pt-br);
 - Consultora em análises de dados e instrutora na empresa [Beta Analítica](https://betaanalitica.com.br/);
 - Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
