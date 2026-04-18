@@ -16,26 +16,24 @@
 
  #### Linguagens e ferramentas utilizadas: 
  
-<div 
-  style="display: inline-block">
-  <img align="center" alt="Jeanne-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeanne-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeanne-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Jeanne-R" height="60" width="45" src="https://www.svgrepo.com/show/373827/markdown.svg"> 
-  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-  <img align="center" alt="Jeanne-R" height="145" width="75" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://www.mermaidchart.com/img/icon-logo.svg">
-  <img align="center" alt="Jeanne-R" height="31" width="31" src="https://img.icons8.com/nolan/512/notion.png">
-  <img align="center" alt="Jeanne-R" height="31" width="31" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
-  <img align="center" alt="Jeanne-R" height="31" width="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Jeanne-R" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
- 
-</div>
+<p align="center">
+  <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" />
+  <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" />
+  <img alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img alt="Markdown" src="https://www.svgrepo.com/show/373827/markdown.svg" height="30" />
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img alt="RStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" />
+  <img alt="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" />
+  <img alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
+  <img alt="Overleaf" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" height="30" />
+  <img alt="Mermaid" src="https://www.mermaidchart.com/img/icon-logo.svg" height="30" />
+  <img alt="Notion" src="https://img.icons8.com/nolan/512/notion.png" height="30" />
+  <img alt="Google Earth Engine" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" height="30" />
+  <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" />
+  <img alt="QGIS" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="30" />
+</p>
  
 ***
 
