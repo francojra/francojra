@@ -2,7 +2,7 @@
 - Geospatial Data Scientist at [INPE](https://www.gov.br/inpe/pt-br);
 - Data analysis consultant and instructor at [Beta Analítica](https://betaanalitica.com.br/);
 - Co-organizer of the [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
-- Holds a bachelor’s degree in Ecology, a master’s degree in Forest Sciences, and a Ph.D. in Ecology from [UFRN](https://www.ufrn.br/).
+- Bachelor’s degree in Ecology, a master’s degree in Forest Sciences, and a Ph.D. in Ecology from [UFRN](https://www.ufrn.br/).
 
 ***
 
