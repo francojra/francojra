@@ -17,22 +17,22 @@
  #### Linguagens e ferramentas utilizadas: 
 <div 
   style="display: inline_block">
-  <img align="center" alt="Jeanne-HTML" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeanne-CSS" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeanne-Python" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Jeanne-R" height="62" width="47" src="https://www.svgrepo.com/show/373827/markdown.svg"> 
-  <img align="center" alt="Jeanne-R" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-  <img align="center" alt="Jeanne-R" height="147" width="77" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="37" src="https://www.mermaidchart.com/img/icon-logo.svg">
-  <img align="center" alt="Jeanne-R" height="33" width="33" src="https://img.icons8.com/nolan/512/notion.png">
-  <img align="center" alt="Jeanne-R" height="33" width="33" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
-  <img align="center" alt="Jeanne-R" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Jeanne-R" height="27" width="27" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
+  <img align="center" alt="Jeanne-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeanne-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jeanne-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="Jeanne-R" height="60" width="45" src="https://www.svgrepo.com/show/373827/markdown.svg"> 
+  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+  <img align="center" alt="Jeanne-R" height="145" width="75" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="35" src="https://www.mermaidchart.com/img/icon-logo.svg">
+  <img align="center" alt="Jeanne-R" height="31" width="31" src="https://img.icons8.com/nolan/512/notion.png">
+  <img align="center" alt="Jeanne-R" height="31" width="31" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
+  <img align="center" alt="Jeanne-R" height="31" width="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Jeanne-R" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
 </div>
  
 ***
