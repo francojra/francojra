@@ -17,7 +17,7 @@
  #### Linguagens e ferramentas utilizadas: 
  
 <div 
-  style="display: inline_block">
+  style="display: inline-block">
   <img align="center" alt="Jeanne-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeanne-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeanne-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
