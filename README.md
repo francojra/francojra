@@ -15,6 +15,7 @@
 ***
 
  #### Linguagens e ferramentas utilizadas: 
+ 
 <div 
   style="display: inline_block">
   <img align="center" alt="Jeanne-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,6 +34,7 @@
   <img align="center" alt="Jeanne-R" height="31" width="31" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
   <img align="center" alt="Jeanne-R" height="31" width="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Jeanne-R" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">
+ 
 </div>
  
 ***
