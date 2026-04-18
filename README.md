@@ -1,8 +1,8 @@
-#### Qualificações e experiências:
-- Cientista de Dados Geoespaciais no [INPE](https://www.gov.br/inpe/pt-br);
-- Consultora em análises de dados e instrutora na empresa [Beta Analítica](https://betaanalitica.com.br/);
-- Coorganizadora da comunidade [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
-- Graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [UFRN](https://www.ufrn.br/).
+#### Qualifications and experience:
+- Geospatial Data Scientist at [INPE](https://www.gov.br/inpe/pt-br);
+- Data analysis consultant and instructor at [Beta Analítica](https://betaanalitica.com.br/);
+- Co-organizer of the [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
+- Holds a bachelor’s degree in Ecology, a master’s degree in Forest Sciences, and a Ph.D. in Ecology from [UFRN](https://www.ufrn.br/).
 
 ***
 
@@ -14,7 +14,7 @@
  
 ***
 
- #### Linguagens e ferramentas utilizadas: 
+ #### Languages and tools used:
  
 <p align="center">
   <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" />
