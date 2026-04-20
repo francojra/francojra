@@ -29,6 +29,7 @@
   <img alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" />
   <img alt="Overleaf" src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" height="30" />
   <img alt="Mermaid" src="https://www.mermaidchart.com/img/icon-logo.svg" height="30" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" />
   <img alt="Notion" src="https://img.icons8.com/nolan/512/notion.png" height="30" />
   <img alt="Google Earth Engine" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" height="30" />
   <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" />
