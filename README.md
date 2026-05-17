@@ -4,14 +4,14 @@
 - Co-organizer of the [R-Ladies Natal](https://www.instagram.com/rladiesnatal/);
 - Bachelor’s degree in Ecology, a master’s degree in Forest Sciences, and a Ph.D. in Ecology from [UFRN](https://www.ufrn.br/).
 
-***
+<!--***
 
 <div>
   <a href="https://github.com/francojra">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francojra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojra&layout=compact&langs_count=7&theme=dracula" />
   </a>
-</div>
+</div> -->
  
 ***
 
